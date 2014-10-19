@@ -1,4 +1,5 @@
 bee
 ===
 
-a service orchestration tool, use eclipse plugin/GEF/SWT etc.
+A service orchestration tool, build on eclipse plugin/GEF/SWT etc.
+It will makes diagrams into services.
